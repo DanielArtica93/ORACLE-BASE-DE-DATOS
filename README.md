@@ -1,1 +1,1 @@
-Repositorio de Base de Datos - Oracle (PL / SQL)
+Repositorio del curso Base de Datos - Oracle (PL / SQL)
